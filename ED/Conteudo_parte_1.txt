@@ -1,0 +1,8 @@
+Tipo abstrato de dados
+Lista sequêncial estática
+Lista estática encadeada
+Lista dinâmica encadeada
+Listas diâmicas duplamente encadeadas
+Lista circular
+Pilha
+Fila

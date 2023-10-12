@@ -1,0 +1,40 @@
+lista estática sequencial
+  vantagens:
+    -acesso direto a um elemento pelo indice
+    -ser odernado
+    -Tempo constante para acessar o elemento i: dependerá somente do índice.
+    -mais simples de ser implementado
+  desvantagens:
+    -deslocamento de elementos na remoção e adição.
+    -limite máximo de número de elementos
+  Quando usar:
+	-Listas pequenas
+	-Inserção/remoção no fim da lista
+	-Tamanho máximo bem definido
+
+
+
+lista estática encadeada
+  vantagens: 
+    -sem deslocamento na inserção e remoção de elementos
+  desvantagens:
+    -mais complexo de ser implementado
+    -apenas é possivel busca sequencial
+    -limite máximo de número de elementos
+    -gerenciamento de 2 listas em um mmesmo vetor
+
+
+
+lista encadeada dinâmica
+  vantagens:
+    -o limite do numero de elementos é o espaço disponivel na memória
+    -sem deslocamento na inserção e remoção de elementos.
+  desvantagens:
+    -não tem acesso direto ao elemento
+    -busca sequencial O(n)
+
+
+Tipo abstrato de dados(TAD)
+     -Separação da abstração da implementação
+     -Tipo abstrato de dado(TAD)  é o pensamento  de como os dados serão manipulados, o conceito por trás  da implementação.
+	Logo, ele se preocupa em definir o comportamento da estrutura de dados.

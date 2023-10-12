@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1683397998 source:/Users/gabriellycristine/Documents/EstruturaDeDados/lista.c
+	"lista.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1683397974 /Users/gabriellycristine/Documents/EstruturaDeDados/lista.h
+
+1683398550 source:/Users/gabriellycristine/Documents/EstruturaDeDados/main.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+
